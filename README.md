@@ -14,5 +14,4 @@ Github: https://github.com/Kaden-Trousdale/Charlie-Assignment-Repo
 Codepen: https://codepen.io/your-work
 
 -=- Notes -=-
-***WAVE link was made before links were installed in footer.
 ***Credits can be found in code.
