@@ -2,6 +2,7 @@ Here you will find all additional information regarding Chralie!
 
 -=- Code Section Credit -=-
 Footer: mdboostrap.com
+
 Basic code structure: https://github.com/barrycumbie
 
 -=- Footer Links -=-
