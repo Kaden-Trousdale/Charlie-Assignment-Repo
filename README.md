@@ -1,6 +1,6 @@
-# Charlie the Space Seal's fun silly projects Website
+# Charlie the Space Seal's fun silly projects Website 
 
-This is a basic website that showcases basic HTML, CSS, JS, jQuery, and Bootstrap functions. <br />
+This is a basic website that showcases basic **HTML**, **CSS**, **JS**, **jQuery**, and **Bootstrap** functions. <br />
 <details> 
 This was created as an assignment in a Web Development class during the Spring 2025 semester at The University of North Alabama. Assigned by Barry Cumbie (Link provided below).
 <summary>
@@ -21,12 +21,12 @@ WAVE: https://wave.webaim.org/report#/https://kaden-trousdale.github.io/Charlie-
 Github: https://github.com/Kaden-Trousdale/Charlie-Assignment-Repo <br />
 Codepen: [https://codepen.io/your-work](https://codepen.io/Kaden-Trousdale) <br />
 
-## Code Link
+## -=- Code Link -=-
 
 You can find the full project code here:  
 [GitHub Repository](https://github.com/Kaden-Trousdale/Charlie-Assignment-Repo/tree/main)
 
-## Features
+## -=- Features -=-
 
 - Cards: Showcases card layout, design, and functions.
 - Header/Footer: Showcases basic Header and Footer design. 
@@ -34,9 +34,9 @@ You can find the full project code here:
 - Mouse Hover Function: Showcases mouseover function event.
 - Multiple-page Site: Showcases a site with a multiple-page layout.
 
-## Code Highlights
+## -=- Code Highlights -=-
 
-### Cards Code
+### Cards Code 
 
 ```html
 <div class="col-sm-4">
