@@ -95,5 +95,9 @@ function handleMouseOver(imgElement, callback) {
     
   });
 ```
+
+## -=- About Me -=-
+The about me section on the website includes a wonderful synopsis of the fictional founder of the Company. Here it is.
+>Charlie S. Sealouswick was born in 1983 A.D. in the Glorpious system. From a young age, Charlie had always wanted to explore the cosmos and find something to do with his cool seal alien life. He finally got his wish when he found Earth! From there he invented the internet, the PlayStation 3, HTML, Planking, Autotune, Walmart, and Microwave Strudel. He took a fond liking to making websites, one of the most famous was Facebook! Although he did all the work, a long and rigourous lawsuit from a rival alien, Mark Zuccerberg, led to him losing all creation rights to Facebook. He soon fell into a steep depression. The only thing to combat the intense depression was TF2 and creating websites in Dr. Cumbie's Web Dev class. And through his grand generosity, he made this page to share some of his favorites!
   
 
