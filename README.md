@@ -67,6 +67,7 @@ You can find the full project code here:
 </div>
 ```
 ### Mouse Over Function
+For quicker response time, remove the timer.
 
 ```diff js
 function handleMouseOver(imgElement, callback) {
